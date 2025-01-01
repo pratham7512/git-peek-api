@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Render specific
+.render-buildpacks/
+
+# Logs
+*.log
+
+# Local development
+local_test/
+test_data/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# API testing files
+test_output/
+api_responses/
